@@ -1,6 +1,6 @@
 {
 	"name": "divsmith/larabook",
-	"description": "eBay clone written with Laravel.",
+	"description": "eBay clone built with Laravel.",
 	"require": {
 		"laravel/framework": "4.2.*"
 	},
